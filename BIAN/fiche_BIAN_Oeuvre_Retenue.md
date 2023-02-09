@@ -9,5 +9,5 @@ Baron Lanteigne vit et travaille à Québec, Canada. L’essence de son travail 
 
 
 
-# Reference
+>Reference
 [^1]: Bio de Baron Lanteigne http://baronlanteigne.com/info.html
