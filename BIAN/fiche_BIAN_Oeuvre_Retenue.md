@@ -9,7 +9,7 @@ Baron Lanteigne vit et travaille à Québec, Canada. L’essence de son travail 
 
 # Nature Morte 7 
 >2022
-<img align="right" width="100" height="100" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_grandplan_redi.png">
+<img align="right" width="100%" height="100%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_grandplan_redi.png">
 ## Composant
 - 9 Écrans
 - 1 Écrans contenant une sculpture 3D
