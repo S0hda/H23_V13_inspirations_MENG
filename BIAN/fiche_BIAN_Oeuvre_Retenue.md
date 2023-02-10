@@ -23,7 +23,7 @@ L’oeuvre fait appel au contenant autant qu'au contenu ; l'électronique physiq
 - Électronique
 
 # Mise en espace
-<img align="left" width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_suspension.png">
+<img align="left" width="10%" height="10%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_suspension.png">
 L'oeuvre est partiellement suspendu et aussi alimenter par des fils qui s'accroche a un poutre haut hors de vue. 
 
 >Reference
