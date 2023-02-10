@@ -23,4 +23,4 @@ L’oeuvre fait appel au contenant autant qu'au contenu ; l'électronique physiq
 
 >Reference
 [^1]: Bio de Baron Lanteigne http://baronlanteigne.com/info.html
-[^2]: Description http://baronlanteigne.com/naturemorte7.html
+[^2]: Description de Nature Morte 7 http://baronlanteigne.com/naturemorte7.html
