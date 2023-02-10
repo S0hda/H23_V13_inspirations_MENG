@@ -9,7 +9,7 @@ Baron Lanteigne vit et travaille à Québec, Canada. L’essence de son travail 
 
 # Nature Morte 7 
 >Creation 2022
-<img align="right" width="50%" height="50%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_grandplan_redi.png">
+<img align="right" width="50%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_grandplan_redi.png">
 
 ## Description
 Nature Morte 7 présente une fenêtre – unique mais fragmentée – composée d'écrans posés au sol. Elle ouvre sur un monde oublié, mais toujours en activité. La pièce centrale de cette œuvre combine un écran avec divers composantes électroniques qui s’illumine. La sculpture suspendue tourne le dos au spectateur, afin de mettre en évidence son fonctionnement interne. L’électroniques « grand public » dont l'œuvre est composée sont délibérément sortis de leur contexte habituel. Cela permet de révéler leur potentiel, qui est souvent banalisé.
@@ -21,6 +21,8 @@ L’oeuvre fait appel au contenant autant qu'au contenu ; l'électronique physiq
 - 1 Écrans contenant une sculpture 3D
 - Plantes artificielles
 - Électronique
+
+# Mise en espace
 
 #
 >Reference
