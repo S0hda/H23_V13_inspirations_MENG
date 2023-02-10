@@ -24,7 +24,6 @@ L’oeuvre fait appel au contenant autant qu'au contenu ; l'électronique physiq
 
 # Mise en exposition
 <img align="left" width="15%" height="15%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_suspension.png">
-<img align="right" width="15%" height="15%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_grandplan_dos.png">
 L'oeuvre est partiellement suspendu et aussi alimenter par des fils qui s'accroche a un poutre haut hors de vue. L'oeuvre occupe une espace minime ce qui le rend aussi un oeuvre itinéraire. Des nombreuse fils électroniques éparpillé, une ou deux bande d'allimention ainsi qu'un ce que je suppose est un ordinateur qui sont cacher sous les écrans. Sur le dos de l'écran suspendu principal, des plantes artificielles s'y trouve. Il y a aussi des pieces électronique qui sont décoratif.
 
 # Experience
