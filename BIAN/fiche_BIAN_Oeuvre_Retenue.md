@@ -28,7 +28,7 @@ L'oeuvre est partiellement suspendu et aussi alimenter par des fils qui s'accroc
 
 # Experience
 <img align="right" width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_moyenplan.png">
-Nature Morte 7 ne nécessite pas d'intéraction de la pars du visiteur, c'est une experience que tu voyage avec les yeux et en tournant autour de l'oeuvre. Le plus que je regardais l'oeuvre, le plus que je découvrait sont histoire. Les couleurs vifs les rendus 3D et les élements cacher dans le dos de l'écran principal avait beaucoup d'histoire, des marques comme "virtual World Emulation Device" gravé sur un des composant ma fait regarder l'oeuvre d'un autre façon.
+Nature Morte 7 ne nécessite pas d'intéraction de la pars du visiteur, c'est une experience que tu voyage avec les yeux et en tournant autour de l'oeuvre. Le plus que je regardais l'oeuvre, le plus que je découvrait sont histoire. Les couleurs vifs les rendus 3D et les élements cacher dans le dos de l'écran principal avait beaucoup d'histoire, des marques comme "virtual World Emulation Device" gravé sur un des composant ma fait regarder l'oeuvre d'un autre façon. Ce que j'ai beaucoup aimé c'est l'aspect d'exploration, tout les petits 
 
 ###### Reference
 [^1]: Portrait de Baron Lanteigne https://montreal.mutek.org/fr/artistes/baron-lanteigne
