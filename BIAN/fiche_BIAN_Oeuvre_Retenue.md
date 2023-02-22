@@ -2,8 +2,8 @@
 >ELEKTRA - ARSENAL ART CONTEMPORAIN 
 <sub>2020 William, Montréal, QC</sub>
 
-## Bio de l'artiste - Baron Lanteigne
-<img align="left" width="50%" height="50%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/baronlanteigne.jpg">[^1]
+## Bio de l'artiste - Baron Lanteigne [^1]
+<img align="left" width="50%" height="50%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/baronlanteigne.jpg">
 
 Baron Lanteigne vit et travaille à Québec, Canada. L’essence de son travail émerge de ses infiltrations et collaborations avec de nombreuses communautés issues du web. Son travail fait partie de collections et événements en ligne tels que The Wrong Biennale, real-fake.org, Electrofringe, SPAMM, Glitch Artist Collective, FeltZine, MoCDA et plusieurs autres. Cette pratique connectée est présentée à travers le monde entre autres au Ludwig Museum à Budapest (HU), Centre Culturel Canadien, à Paris (FR), Ramat Gan Museum of Israeli Art (IL), Mapping Festival (CH), Mirage Festival (FR), MUTEK (CA, JP), Dutch Design Week (NL), Sónar+D (ES), CPH:DOX (DK), Gwangju Media Platform (KR) et 6e biennale internationale d’art numérique par ELEKTRA (CA).[^2]
 
@@ -27,7 +27,7 @@ L’oeuvre fait appel au contenant autant qu'au contenu ; l'électronique physiq
 <img align="left" width="15%" height="15%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Croquis/Naturemorte7_croquis.png">
 L'oeuvre est partiellement suspendu et aussi alimenter par des fils qui s'accroche a un poutre haut hors de vue comme illustré dans le dessin à gauche. L'oeuvre occupe une espace minime ce qui le rend aussi un oeuvre itinéraire. Des nombreuse fils électroniques éparpillé, une ou deux bande d'allimention ainsi qu'un ce que je suppose est un ordinateur qui sont cacher sous les écrans. Sur le dos de l'écran suspendu principal, des plantes artificielles s'y trouve. Il y a aussi des pieces électronique qui sont décoratif.
 
-
+# 
 ## Experience
 >Visité le 2 Février 2023 
 <img align="right" width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/BIAN/Photos/Naturemorte7_moyenplan.png">
