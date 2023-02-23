@@ -16,7 +16,7 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 - comment?: pedaler avec un velo spatial, stationnaire qui allumera des LED autour qui vont varier par le rythme du pedal. 
 - LED change de couleur dépendant de la saison: blue/glace pour hiver, jaune/rouge 
 
-# - Boucler la boucle
+# - Nexum (Boucler la boucle)
 experience lumineuse immersive/interactif, des animation sensationnelle et un ambiance musical
 logicelle: 
 - public, dehors, Code QR a scanner qui montre une animation.
