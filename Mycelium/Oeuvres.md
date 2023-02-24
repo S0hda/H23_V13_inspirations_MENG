@@ -2,7 +2,7 @@ Mycélium: les racines d'un champignon
 
 # - Zodie-gal
 > Créatrice: Abdanor Yara
-
+<img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/zodiac-design-01.png">
 logicielle: clipstudio
 - jeu web touche et adventure
 - context, une adolescente dans sa periode de puberte? avec qui les enemies c'est les zodiacs.
