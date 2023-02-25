@@ -9,6 +9,7 @@ logicielle: clipstudio
 
 # - Echomarine
 > Créatrices: Florence Lapierre, Natacha Abdallah' Tracy Gua, Maria Laura Coronel
+<img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Echomarine.png">
 
 logicielle: after effect, illustration, reaper, node gs, 
 - projection sur 3 murs qui donnes une impresion sur les animaux marin sous instinction
@@ -16,6 +17,7 @@ logicielle: after effect, illustration, reaper, node gs,
 
 # - LumaSol
 > Créateurs et Créatrices: Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
+<img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Lumasol.png">
 
 logicielle: arduino, visual studio, 
 demontrer l'importance pour les humain de demeurer en contact avec la nature en raison de l'urgence climatique.
@@ -24,6 +26,7 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 
 # - Nexum (Boucler la boucle)
 >Créateurs et Créatrices: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
+<img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_idle.png">
 
 experience lumineuse immersive/interactif, des animation sensationnelle et un ambiance musical
 logicelle: 
@@ -33,6 +36,7 @@ logicelle:
 
 # - Entre Fungus
 >Créateurs et Créatrice: Elwin Durand, Loic Delorme, Dominic Roberts, Grabirel Leblanc, Meryem Berbiche, Jean-Christophe
+<img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Edria.png">
 
 installation intéractive une place ou tu peux rencontrer tes amis, diner et autre
 logicielle: fl studio
