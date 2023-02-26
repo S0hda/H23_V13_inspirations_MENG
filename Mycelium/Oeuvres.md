@@ -22,6 +22,9 @@ logicielle: fl studio
 - Etat climax: 4 personne structure fais une animation special qui dure 45min
 - 2 poto, fausse plante, lumiere
 
+## Planification EDRIA
+<img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/edria_plan.png"> [^2]
+
 # - Echomarine
 > Créatrices: Florence Lapierre, Natacha Abdallah' Tracy Gua, Maria Laura Coronel
 <img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Echomarine.png">
@@ -52,5 +55,5 @@ logicielle: clipstudio
 
 ###### Référence 
 
-
+[^2]: plan EDRIA https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/edria_plan.png
 [^3]: Plan Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
