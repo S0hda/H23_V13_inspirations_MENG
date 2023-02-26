@@ -29,6 +29,9 @@ logicielle: fl studio
 logicielle: after effect, illustration, reaper, node gs, 
 - projection sur 3 murs qui donnes une impresion sur les animaux marin sous instinction
 - traquer par un kinect, musique ambiant et reactive. 
+- 
+## Planification Echomarine
+<img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/echomarine_Plan.png"> [^3]
 
 # - LumaSol
 > Créateurs et Créatrices: Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
@@ -48,4 +51,6 @@ logicielle: clipstudio
 
 
 ###### Référence 
-[^3] Plan Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+
+
+[^3]: Plan Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
