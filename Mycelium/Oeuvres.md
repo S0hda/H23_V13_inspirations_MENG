@@ -10,7 +10,7 @@ logicelle:
 - Idle mode: lumière en respiraiton 
 - Active mode: les lumières vont clignoter vite quand un passant est présent.
 
-# - Entre Fungus
+# - EDRIA
 >Créateurs et Créatrice: Elwin Durand, Loic Delorme, Dominic Roberts, Grabirel Leblanc, Meryem Berbiche, Jean-Christophe
 <img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Edria.png">
 
@@ -45,3 +45,7 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 logicielle: clipstudio
 - jeu web touche et adventure
 - context, une adolescente dans sa periode de pubertés avec qui les enemies c'est les zodiacs.
+
+
+###### Référence 
+[3]
