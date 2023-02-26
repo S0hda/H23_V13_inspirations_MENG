@@ -48,4 +48,4 @@ logicielle: clipstudio
 
 
 ###### Référence 
-[3]
+[^3] Plan Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
