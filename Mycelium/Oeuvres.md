@@ -44,4 +44,4 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 <img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/zodiac-design-01.png">
 logicielle: clipstudio
 - jeu web touche et adventure
-- context, une adolescente dans sa periode de puberte? avec qui les enemies c'est les zodiacs.
+- context, une adolescente dans sa periode de pubertés avec qui les enemies c'est les zodiacs.
