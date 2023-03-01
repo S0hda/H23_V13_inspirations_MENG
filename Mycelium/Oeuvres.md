@@ -65,7 +65,7 @@ logicielle: clipstudio
 - Traitement audiovisuel réaliser des performances audiovisuelles et des installations interactives.
 - Installation multimédia réalise une installation multimédia utilisant la projection vidéo architecturale, la lumière scénique et la spatialisation sonore.
 
-Le logicielle Madmapper
+### Le logicielle Madmapper
 un logicielle de mapping pour les lumières.
 
 
