@@ -10,6 +10,9 @@ logicelle:
 - Idle mode: lumière en respiraiton 
 - Active mode: les lumières vont clignoter vite quand un passant est présent.
 
+### Planification Nexum (Boucler la boucle)
+<img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Passe_lumiere.png"> [^1]
+
 # - EDRIA
 >Créateurs et Créatrice: Elwin Durand, Loic Delorme, Dominic Roberts, Grabirel Leblanc, Meryem Berbiche, Jean-Christophe
 <img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Edria.png">
@@ -22,7 +25,7 @@ logicielle: fl studio
 - Etat climax: 4 personne structure fais une animation special qui dure 45min
 - 2 poto, fausse plante, lumiere
 
-## Planification EDRIA
+### Planification EDRIA
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/edria_plan.png"> [^2]
 
 # - Echomarine
@@ -33,7 +36,7 @@ logicielle: after effect, illustration, reaper, node gs,
 - projection sur 3 murs qui donnes une impresion sur les animaux marin sous instinction
 - traquer par un kinect, musique ambiant et reactive. 
 - 
-## Planification Echomarine
+### Planification Echomarine
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/echomarine_Plan.png"> [^3]
 
 # - LumaSol
@@ -45,6 +48,8 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 - comment?: pedaler avec un velo spatial, stationnaire qui allumera des LED autour qui vont varier par le rythme du pedal. 
 - LED change de couleur dépendant de la saison: blue/glace pour hiver, jaune/rouge 
 
+<img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/luma-sol.png"> [^4]
+
 # - Zodie-gal
 > Créatrice: Abdanor Yara
 <img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/zodiac-design-01.png">
@@ -54,6 +59,7 @@ logicielle: clipstudio
 
 
 ###### Référence 
-
+[^1]: Plan Boucler la boucle https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
 [^2]: plan EDRIA https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/edria_plan.png
 [^3]: Plan Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+[^4]: Plan Luma-sol https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
