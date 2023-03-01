@@ -62,6 +62,9 @@ logicielle: clipstudio
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Zodiadiegal-title-present(beta).png"> [^5]
 
 # Les 3 cours du programme multimédia nécessaire
+- Le cour d'objets interactifs (capteurs, microcontrôleurs, DEL, microprogrammation, microordinateur) et leur intégration à un système multimédia interactif.
+- Traitement audiovisuel réaliser des performances audiovisuelles et des installations interactives.
+- Installation multimédia réalise une installation multimédia utilisant la projection vidéo architecturale, la lumière scénique et la spatialisation sonore.
 
 
 
