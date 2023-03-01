@@ -61,10 +61,15 @@ logicielle: clipstudio
 ### Scénarimage Zodie-gal
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Zodiadiegal-title-present(beta).png"> [^5]
 
+# Les 3 cours du programme multimédia nécessaire
+
+
+
+
 
 ###### Référence 
 [^1]: Schéma Boucler la boucle https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
-[^2]: Schéma EDRIA https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/edria_plan.png
+[^2]: Schéma EDRIA https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 [^3]: Schéma Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 [^4]: Schéma Luma-sol https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
 [^5]: Schéma Zodie-gal https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
