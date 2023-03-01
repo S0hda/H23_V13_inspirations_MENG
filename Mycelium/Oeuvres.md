@@ -1,6 +1,6 @@
 Mycélium: les racines d'un champignon
 
-# - Nexum (Boucler la boucle)
+# 1 - Nexum (Boucler la boucle)
 >Créateurs et Créatrices: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 <img width="20%" height="20%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_idle.png">
 
@@ -9,10 +9,13 @@ experience lumineuse immersive/interactif, des animation sensationnelle et un am
 - Idle mode: lumière en respiraiton 
 - Active mode: les lumières vont clignoter vite quand un passant est présent.
 
+###### Expectation
+Je pense que je vais beaucoup m'amuser à passer devant les capteurs pour activer les lumières et la musique.
+
 ### Schéma Nexum (Boucler la boucle)
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Passe_lumiere.png"> [^1]
 
-# - EDRIA
+# 2 - EDRIA
 >Créateurs et Créatrice: Elwin Durand, Loic Delorme, Dominic Roberts, Grabirel Leblanc, Meryem Berbiche, Jean-Christophe
 <img width="20%" height="20%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Edria.png">
 
@@ -24,10 +27,13 @@ logicielle: fl studio
 - Etat climax: 4 personne structure fais une animation special qui dure 45min
 - 2 poto, fausse plante, lumiere
 
+###### Expectation
+Edria vas être très beau a regarder a distance quand le monde vont activer le climax.
+
 ### Schéma EDRIA
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/edria_plan.png"> [^2]
 
-# - Echomarine
+# 3 - Echomarine
 > Créatrices: Florence Lapierre, Natacha Abdallah' Tracy Gua, Maria Laura Coronel
 <img width="20%" height="20%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Echomarine.png">
 
@@ -35,10 +41,13 @@ logicielle: after effect, illustration, reaper, node gs,
 - projection sur 3 murs qui donnes une impresion sur les animaux marin sous instinction
 - traquer par un kinect, musique ambiant et reactive. 
 
+###### Expectation
+Je pense être calme quand je rentre dans la chambre de Echomarine car l'audio immersive et le monde qui vont activer les animations des créature marin
+
 ### Schéma Echomarine
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/echomarine_Plan.png"> [^3]
 
-# - LumaSol
+# 4 - LumaSol
 > Créateurs et Créatrices: Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
 <img width="20%" height="20%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Lumasol.png">
 
@@ -50,7 +59,7 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 ### Schéma Lumasol
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/luma-sol.png"> [^4]
 
-# - Zodie-gal
+# 5 - Zodie-gal
 > Créatrice: Abdanor Yara
 <img width="20%" height="20%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/zodiac-design-01.png">
 logicielle: clipstudio
@@ -67,7 +76,6 @@ logicielle: clipstudio
 
 ## Le logicielle Madmapper
 MadMapper est un logicielle simple et facile pour faire des vidéos mapping, une des plus utilisé.
-
 
 
 
