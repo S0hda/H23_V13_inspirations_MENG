@@ -10,7 +10,7 @@ logicelle:
 - Idle mode: lumière en respiraiton 
 - Active mode: les lumières vont clignoter vite quand un passant est présent.
 
-### Planification Nexum (Boucler la boucle)
+### Schéma Nexum (Boucler la boucle)
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Passe_lumiere.png"> [^1]
 
 # - EDRIA
@@ -25,7 +25,7 @@ logicielle: fl studio
 - Etat climax: 4 personne structure fais une animation special qui dure 45min
 - 2 poto, fausse plante, lumiere
 
-### Planification EDRIA
+### Schéma EDRIA
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/edria_plan.png"> [^2]
 
 # - Echomarine
@@ -36,7 +36,7 @@ logicielle: after effect, illustration, reaper, node gs,
 - projection sur 3 murs qui donnes une impresion sur les animaux marin sous instinction
 - traquer par un kinect, musique ambiant et reactive. 
 - 
-### Planification Echomarine
+### Schéma Echomarine
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/echomarine_Plan.png"> [^3]
 
 # - LumaSol
@@ -48,7 +48,7 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 - comment?: pedaler avec un velo spatial, stationnaire qui allumera des LED autour qui vont varier par le rythme du pedal. 
 - LED change de couleur dépendant de la saison: blue/glace pour hiver, jaune/rouge 
 
-### Planification Lumasol
+### Schéma Lumasol
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/luma-sol.png"> [^4]
 
 # - Zodie-gal
@@ -59,7 +59,7 @@ logicielle: clipstudio
 - context, une adolescente dans sa periode de pubertés avec qui les enemies c'est les zodiacs.
 
 ### Scénarimage Zodie-gal
-<img width="30%" height="30%" src="https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html"> [^5]
+<img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Zodiadiegal-title-present(beta).png"> [^5]
 
 
 ###### Référence 
