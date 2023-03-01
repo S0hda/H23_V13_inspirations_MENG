@@ -16,7 +16,7 @@ experience lumineuse immersive/interactif, des animation sensationnelle et un am
 >Créateurs et Créatrice: Elwin Durand, Loic Delorme, Dominic Roberts, Grabirel Leblanc, Meryem Berbiche, Jean-Christophe
 <img width="20%" height="20%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Edria.png">
 
-installation intéractive une place ou tu peux rencontrer tes amis, diner et autre
+installation intéractive, une place ou tu peux rencontrer tes amis, diner et autre
 logicielle: fl studio
 - univers féerique, dehors, lumière pastel
 - Etat sommeil: 0 personne respiration
