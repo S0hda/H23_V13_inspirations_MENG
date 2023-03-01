@@ -5,7 +5,6 @@ Mycélium: les racines d'un champignon
 <img width="20%" height="20%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_idle.png">
 
 experience lumineuse immersive/interactif, des animation sensationnelle et un ambiance musical
-logicelle: 
 - public, dehors, Code QR a scanner qui montre une animation.
 - Idle mode: lumière en respiraiton 
 - Active mode: les lumières vont clignoter vite quand un passant est présent.
@@ -66,6 +65,8 @@ logicielle: clipstudio
 - Traitement audiovisuel réaliser des performances audiovisuelles et des installations interactives.
 - Installation multimédia réalise une installation multimédia utilisant la projection vidéo architecturale, la lumière scénique et la spatialisation sonore.
 
+Le logicielle Madmapper
+un logicielle de mapping pour les lumières.
 
 
 
