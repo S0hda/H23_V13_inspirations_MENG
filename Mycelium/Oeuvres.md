@@ -59,7 +59,7 @@ logicielle: clipstudio
 - context, une adolescente dans sa periode de pubertés avec qui les enemies c'est les zodiacs.
 
 ### Scénarimage Zodie-gal
-<img width="30%" height="30%" src=""> [^5]
+<img width="30%" height="30%" src="https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html"> [^5]
 
 
 ###### Référence 
