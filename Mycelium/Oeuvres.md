@@ -34,7 +34,7 @@ logicielle: fl studio
 logicielle: after effect, illustration, reaper, node gs, 
 - projection sur 3 murs qui donnes une impresion sur les animaux marin sous instinction
 - traquer par un kinect, musique ambiant et reactive. 
-- 
+
 ### Schéma Echomarine
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/echomarine_Plan.png"> [^3]
 
