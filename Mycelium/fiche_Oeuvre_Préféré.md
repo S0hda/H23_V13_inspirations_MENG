@@ -16,7 +16,10 @@ Quand il y a pas d'activités détecter par les capteurs, les lumières vont all
 Comme mentionné dans le point précédent quand un des 4 capteurs vont détecter une présence, la première lumière débutant par où le capteur active ce trouve vas illuminer une couleur rose et vas partir comme une étoile filante suivant le reste des lumières.
 <img width="10%" height="10%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_active.png">
 
+## Cartographie
+<img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_cartograhpie.png">[^2]
+
 
 ###### Référence
 [^1]: Résumé https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html 
-[^2]:
+[^2]: Cartographie https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
