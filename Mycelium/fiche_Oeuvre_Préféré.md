@@ -17,7 +17,7 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 <img width="10%" height="10%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_active.png">
 
 ## Cartographie
-<img width="20%" height="20%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_cartograhpie.png">[^2]
+<img width="50%" height="50%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_cartograhpie.png">[^2]
 
 
 ###### Référence
