@@ -75,7 +75,7 @@ logicielle: clipstudio
 - Installation multimédia réalise une installation multimédia utilisant la projection vidéo architecturale, la lumière scénique et la spatialisation sonore.
 
 ## Le logicielle Madmapper
-En fesant des recherches j'ai découvert que MadMapper est un logicielle simple et facile pour faire des vidéos mapping, une des plus utilisé, c'est justement un des logicielle que toute les . Ce logicielle permet a l'utilisateur de controller l'animation et l'emplacement de lumière.
+En fesant des recherches j'ai découvert que MadMapper est un logicielle simple et facile pour faire des vidéos mapping, une des plus utilisé, c'est justement un des logicielle que prèsque tout les projects utilise. Ce logicielle permet a l'utilisateur de controller l'animation et l'emplacement de lumière.
 
 
 
