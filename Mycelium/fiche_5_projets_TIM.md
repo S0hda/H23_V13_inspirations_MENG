@@ -13,7 +13,7 @@ experience lumineuse immersive/interactif, des animation sensationnelle et un am
 Je pense que je vais beaucoup m'amuser à passer devant les capteurs pour activer les lumières et la musique.
 
 ### Nexum et le lien avec le theme de Mycélium
-Les ampoule de lumière sont connecter comme les racines mycélium d'un champignons.
+Les ampoule de lumière sont connecter comme les racines mycélium d'un champignons. Le mots Nexum veut dire connection.
 
 ### Schéma Nexum (Boucler la boucle)
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Passe_lumiere.png"> [^1]
