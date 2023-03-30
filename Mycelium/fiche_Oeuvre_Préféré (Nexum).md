@@ -20,6 +20,8 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 <img width="50%" height="50%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_cartograhpie.png">[^2]
 
 
+# Exposition
+
 ###### Référence
 [^1]: Résumé https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html 
 [^2]: Cartographie https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
