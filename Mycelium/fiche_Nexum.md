@@ -28,7 +28,8 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 ## Code QR
 <img width="40%" height="40%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_QR.png"> 
 
-## 
+## Experience
+J'ai beaucoup aimer la lumière qui te suit quand tu passait devant un capteur, c'est comme si tu avait un esprit ou un feu follet qui te suivait a tes côté
 
 ###### Référence
 [^1]: Résumé https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html 
