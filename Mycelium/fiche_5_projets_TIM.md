@@ -12,6 +12,9 @@ experience lumineuse immersive/interactif, des animation sensationnelle et un am
 ###### Expectation
 Je pense que je vais beaucoup m'amuser à passer devant les capteurs pour activer les lumières et la musique.
 
+### Nexum et le lien avec le theme de Mycélium
+Les ampoule de lumière sont connecter comme les racines mycélium d'un champignons.
+
 ### Schéma Nexum (Boucler la boucle)
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Passe_lumiere.png"> [^1]
 
@@ -30,6 +33,10 @@ logicielle: fl studio
 ###### Expectation
 Edria vas être très beau a regarder a distance quand le monde vont activer le climax.
 
+### EDRIA et le lien avec le theme de Mycélium
+EDRIA veulent que tu te connecte avec l'oeuvre avec 3 autres personne.
+
+
 ### Schéma EDRIA
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/edria_plan.png"> [^2]
 
@@ -44,6 +51,9 @@ logicielle: after effect, illustration, reaper, node gs,
 ###### Expectation
 Je pense être calme quand je rentre dans la chambre de Echomarine car l'audio immersive et le monde qui vont activer les animations des créature marin
 
+### Echomarine et le lien avec le theme de Mycélium
+Echormarine veulent que tu créent un lien énotionnel avec les animaux marins.
+
 ### Schéma Echomarine
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/echomarine_Plan.png"> [^3]
 
@@ -56,6 +66,12 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 - comment?: pedaler avec un velo spatial, stationnaire qui allumera des LED autour qui vont varier par le rythme du pedal. 
 - LED change de couleur dépendant de la saison: blue/glace pour hiver, jaune/rouge 
 
+###### Expectation
+La musique et sons ambiant je pense vraiment aimer.
+
+### LumaSol et le lien avec le theme de Mycélium
+comme avec EDRIA, Lumasol consiste a être connecter avec la nature.
+
 ### Schéma Lumasol
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/luma-sol.png"> [^4]
 
@@ -65,6 +81,13 @@ demontrer l'importance pour les humain de demeurer en contact avec la nature en 
 logicielle: clipstudio
 - jeu web touche et adventure
 - context, une adolescente dans sa periode de puberté avec qui les enemies c'est les zodiacs.
+
+###### Expectation
+Je pense sa être amusant comment l'artiste visualise les Zodiaques.
+
+### Zodie-gal et le lien avec le theme de Mycélium
+Le lien entre Zodie-gal et Mycélium je pense c'est le lien entre toi et les zodiaques.
+
 
 ### Scénarimage Zodie-gal
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Zodiadiegal-title-present(beta).png"> [^5]
