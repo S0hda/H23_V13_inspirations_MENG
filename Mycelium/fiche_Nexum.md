@@ -23,7 +23,8 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 # Exposition
 ## Active
 <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Active.png">
-
+## Idle 
+<img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_idle.png">
 
 ###### Référence
 [^1]: Résumé https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html 
