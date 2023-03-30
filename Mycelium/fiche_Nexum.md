@@ -22,6 +22,8 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 
 # Exposition
 
+##
+
 ###### Référence
 [^1]: Résumé https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html 
 [^2]: Cartographie https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
