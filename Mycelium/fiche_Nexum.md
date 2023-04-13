@@ -23,6 +23,9 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 # Exposition
 [![Watch the video](https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Active.png)](https://youtube.com/shorts/RoQmxLd_Rtk)
 
+<img width="49%" height="49%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Active.png">
+<img width="47%" height="47%"  align="left"src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_idle.png">
+
 ## Code QR
 <img width="40%" height="40%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_QR.png"> 
 
