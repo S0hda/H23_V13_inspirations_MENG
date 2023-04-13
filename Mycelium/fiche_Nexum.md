@@ -29,7 +29,7 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 <img width="40%" height="40%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_QR.png"> 
 
 ## Experience
-J'ai beaucoup aimer la lumière qui te suit quand tu passait devant un capteur, c'est comme si tu avait un esprit ou un feu follet qui te suivait a tes côté
+J'ai beaucoup aimer la lumière qui te suit quand tu passait devant un capteur, c'est comme si tu avait un esprit ou un feu follet qui te suivait a tes côté. Ce que j'ai moin aimer c'est comment les codes QR étais affiché, ils n'étaient pas simple a scanner sans avois bouger le feuillus qui l'obstruait ou quand il fessait noir. Les codes QR aussi n'était pas évident a voir si tu sais pas qu'il en avait.
 
 ###### Référence
 [^1]: Résumé https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html 
