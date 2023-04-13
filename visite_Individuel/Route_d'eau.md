@@ -1,7 +1,8 @@
 # 🌊 Route d'eau 🌊 2021
 > Exposition: Temporaire - Exterieur - Contemplatif
+> 
 > Journée de la visite: 28 Février
-> Lieu: Collège Montmorency
+> Lieu: Centre PHI
 #### Conçue par Sylvain Dumais et Phoebe Greenberg
 #### Poème par Joséphine Bacon
 #### design sonor par Kelly Nunes
@@ -11,7 +12,13 @@
 
 #### Tiohtià:ke signifie “où les courants se rencontrent” et le Centre PHI a pignon là où autrefois la rivière Saint-Pierre avait son nid. Pour lui faire écho, une rivière prend vie sur le Centre PHI dans une installation multimédia lumineuse visible des fenêtres donnant sur la rue Saint-Pierre. Cette rivière est la personnification parfaite de nos origines communes et de notre futur collectif. L’installation est accompagnée d’un poème original par Joséphine Bacon et d’une trame sonore par Kelly Nunes. [^2]
 
-### Composantes: Fenêtre,
+### Composantes: 
+- Fenêtre
+- lumière LED
+- mini moteur
+- feuille de métal
+- haut-parleur
+- miroir un sens?
 
 
 
