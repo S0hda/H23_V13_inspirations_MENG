@@ -18,7 +18,6 @@
 - mini moteur
 - feuille de métal
 - haut-parleur
-- miroir un sens?
 
 [![Vidéo]](https://youtube.com/shorts/iU3KPYCi2u4)
 
