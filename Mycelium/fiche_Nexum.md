@@ -19,6 +19,14 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 ## Cartographie
 <img width="50%" height="50%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_cartograhpie.png">[^2]
 
+## Composante
+- Strip Del
+- Pôle 
+- Boûle lumineuse
+- Boite centrale
+- <img width="30%" height="30%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_cartograhpie.png">
+- Capteur de mouvements 
+
 
 # Exposition
 [![Vidéo]](https://youtube.com/shorts/RoQmxLd_Rtk)
