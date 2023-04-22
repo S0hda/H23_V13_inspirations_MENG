@@ -49,7 +49,7 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 <img width="50%" height="50%" align="center" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Hautparleur.png">
 
 ## Capteur
-<img width="50%" height="50%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Abris.png">
+<img width="47%" height="47%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Abris.png">
 
 ## Capteur composante
 <img width="50%" height="50%" align="center" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_capteur_compo.png">
