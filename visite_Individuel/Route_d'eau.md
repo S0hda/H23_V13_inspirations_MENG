@@ -35,7 +35,8 @@ Tiohtià:ke signifie “où les courants se rencontrent” et le Centre PHI a pi
 | ----| ------------- | --------|
 | <img  width="100%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/M%C3%A9dia/route_deau_composant_led.png"> | <img  width="100%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/M%C3%A9dia/route_deau_fenetre.png"> | <img  width="100%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/M%C3%A9dia/route_deau_QR.png">|
 
-
+## Expérience vécue 
+L'expérience quand j'était présent sur le lieu étaient brève, car ce n'est qu'un mirroir avec aucune interactivité mais a force de me renseigner sur l'installations je décrouvre de plus en plus de chose comme le lien entre le courant d'eau et la rivière Saint-Pierre. J'ai aimé l'intégration de l'installation dans le bâtiment de Centre PHI mais ce que j'ai moin aimé c'était où y était placer il était un peu cacher, j'aurait aimer qu'il soit plus évidents. 
 
 ###### Référence
 [^1]: Route d'eau nuit https://phi.ca/fr/evenements/route-deau/
