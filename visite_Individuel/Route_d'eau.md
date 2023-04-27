@@ -14,8 +14,8 @@ Tiohtià:ke signifie “où les courants se rencontrent” et le Centre PHI a pi
 ### Composantes: 
 - Fenêtre
 - lumière LED
-- mini moteur
-- feuille de métal
+- moteur rotatif
+- feuille d'acier
 - haut-parleur
 
 [![Vidéo]](https://youtube.com/shorts/iU3KPYCi2u4)
