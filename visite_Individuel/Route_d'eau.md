@@ -1,4 +1,4 @@
-# 🌊 Route d'eau 🌊 2021
+# 🌊 Route d'eau 🌊 2021H23_V13_inspirations_MENG
 > Exposition: Temporaire - Exterieur - Contemplatif
 > 
 > Journée de la visite: 28 Février
@@ -21,9 +21,11 @@ Tiohtià:ke signifie “où les courants se rencontrent” et le Centre PHI a pi
 [![Vidéo]](https://youtube.com/shorts/iU3KPYCi2u4)
 
 ### Rapproché 
-<img  width="48%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/M%C3%A9dia/route_deau_composant_led.png">
+| LED |    Poème       |   QR   |
+| ----| ------------- | --------|
+| <img  width="100%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/M%C3%A9dia/route_deau_composant_led.png"> | <img  width="100%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/M%C3%A9dia/route_deau_fenetre.png"> | <img  width="100%" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/M%C3%A9dia/route_deau_QR.png">|
 
-### Code QR
+
 
 ###### Référence
 [^1]: Route d'eau nuit https://phi.ca/fr/evenements/route-deau/
