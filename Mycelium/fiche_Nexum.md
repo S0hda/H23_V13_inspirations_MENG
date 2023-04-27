@@ -37,7 +37,7 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 [![Vidéo]](https://youtube.com/shorts/RoQmxLd_Rtk)
 
 ## Scène
-<img width="50%" height="50%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_scene.png">
+<img width="50%" height="50%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_scene.png">[^3]
 
 <img width="47%" height="47%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Active.png">
 <img width="50%" height="50%" align="center" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_idle.png">
@@ -52,7 +52,7 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 <img width="47%" height="47%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Abris.png">
 
 ## Capteur composante
-<img width="50%" height="50%" align="center" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_capteur_compo.png">
+<img width="50%" height="50%" align="center" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_capteur_compo.png">[^4]
 
 ## Experience
 J'ai beaucoup aimer la lumière qui te suit quand tu passait devant un capteur, c'est comme si tu avait un esprit ou un feu follet qui te suivait a tes côté. Ce que j'ai moin aimer c'est comment les codes QR étais affiché, ils n'étaient pas simple a scanner sans avois bouger le feuillus qui l'obstruait ou quand il fessait noir. Les codes QR aussi n'était pas évident a voir si tu sais pas qu'il en avait.
@@ -60,3 +60,5 @@ J'ai beaucoup aimer la lumière qui te suit quand tu passait devant un capteur, 
 ###### Référence
 [^1]: Résumé https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html 
 [^2]: Cartographie https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
+[^3]: scene https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
+[^4]: capter composante https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
