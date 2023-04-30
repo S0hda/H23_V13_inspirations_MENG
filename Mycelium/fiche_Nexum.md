@@ -11,14 +11,13 @@ Une expérience lumineuse immergeante, des animations sensationnel et une ambian
 ## Installation interactive
 
 ## Comment sa fonctionne?
-4 capteurs sont installés et quand un des capteurs vont détecter une présence, des lumières partant du capteur par et suis un traject. Le capteur a un delais de 2 seconde après une activation.
+4 capteurs sont installés et quand un des capteurs vont détecter une présence, des lumières partant du capteur par et suis un trajet. Le capteur a un délai de 2 seconde après une activation.
 <img width="10%" height="10%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_capteur.png">
 
 # _
 ## Lumière non-active (idle)
 <img width="10%" height="10%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/Nexum_idle.png">
-Quand il y a pas d'activités détecter par les capteurs, les lumières vont aller dans une phase "idle". Les lumières vont doucement respirer une lumière blanche jusqu'à temps que quand un des capteurs vont détecter du mouvement.
-
+Quand il n’y a pas d'activités détecter par les capteurs, les lumières vont aller dans une phase "idle". Les lumières vont doucement respirer une lumière blanche jusqu'à temps que quand un des capteurs vont détecter du mouvement.
 # _
 
 ## Lumière active
@@ -58,7 +57,7 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 <img width="50%" height="50%" align="center" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_capteur_compo.png">[^4]
 
 ## Experience
-J'ai beaucoup aimer la lumière qui te suit quand tu passait devant un capteur, c'est comme si tu avait un esprit ou un feu follet qui te suivait a tes côté. Ce que j'ai moin aimer c'est comment les codes QR étais affiché, ils n'étaient pas simple a scanner sans avois bouger le feuillus qui l'obstruait ou quand il fessait noir. Les codes QR aussi n'était pas évident a voir si tu sais pas qu'il en avait.
+J'ai beaucoup aimé la lumière qui te suit quand tu passais devant un capteur, c'est comme si tu avais un esprit ou un feu follet qui te suivait à tes côtés. Ce que j'ai moins aimer c'est comment les codes QR étais affiché, ils n'étaient pas simples à scanner sans avois bouger le feuillus qui l'obstruait ou quand il fessait noir. Les codes QR aussi n'était pas évident à voir si tu sais pas qu'il en avait.
 
 ###### Référence
 [^1]: scene https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
