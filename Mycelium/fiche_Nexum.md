@@ -1,4 +1,9 @@
 # Nexum
+## Lieu: Montmorency
+## Exposition temporaire, extérieur
+## Date de visite: 22 mars
+# Nexum
+<img width="50%" height="50%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_scene.png"> [^4]
 >Créateurs et Créatrices: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel' Maxime Des Lauriers
 
 ## Résumé
@@ -35,9 +40,6 @@ Comme mentionné dans le point précédent quand un des 4 capteurs vont détecte
 
 # Exposition
 [![Vidéo]](https://youtube.com/shorts/RoQmxLd_Rtk)
-
-## Scène
-<img width="50%" height="50%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_scene.png">[^3]
 
 <img width="47%" height="47%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_Active.png">
 <img width="50%" height="50%" align="center" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_idle.png">
