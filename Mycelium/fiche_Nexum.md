@@ -3,7 +3,7 @@
 ## Exposition temporaire, extérieur
 ## Date de visite: 22 mars
 # Nexum
-<img width="50%" height="50%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_scene.png"> [^1]
+<img width="68%" height="68%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_scene.png"> [^1]
 ## Artistes: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 ## 2023
 ## Description
