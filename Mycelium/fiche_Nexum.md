@@ -4,10 +4,11 @@
 ## Date de visite: 22 mars
 # Nexum
 <img width="50%" height="50%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/Mycelium/Photos/nexum_scene.png"> [^1]
->Créateurs et Créatrices: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel' Maxime Des Lauriers
-
-## Résumé
+## Artistes: Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
+## 2023
+## Description
 Une expérience lumineuse immergeante, des animations sensationnel et une ambiance musical des plus spécial. Ce parcours interactif permet la communion entre l'humain et la nature tout en nous plongeant au coeur d'un marais aux apparences magique. [^2]
+## Installation interactive
 
 ## Comment sa fonctionne?
 4 capteurs sont installés et quand un des capteurs vont détecter une présence, des lumières partant du capteur par et suis un traject. Le capteur a un delais de 2 seconde après une activation.
