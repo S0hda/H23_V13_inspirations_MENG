@@ -10,9 +10,9 @@
 [^1]<img  width="48%" align="left" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/Média/route_deau_nuit.jpg">
 <img  width="47%" align="right" src="https://github.com/S0hda/H23_V13_inspirations_MENG/blob/main/visite_Individuel/Média/route_deau_jour.png">
 
-## Artiste
+## Artistes
 ### Conçue par Sylvain Dumais et Phoebe Greenberg
-### Poème par Joséphine Bacon 
+### Poème par Joséphine Bacon
 ### Conception sonore par Kelly Nunes
 ## Année de réalisation 2021
 ## Installation Contemplative
