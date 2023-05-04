@@ -29,7 +29,6 @@ Tiohtià:ke signifie “où les courants se rencontrent” et le Centre PHI a pi
 - feuille d'acier
 - haut-parleur
 
-
 ### Plan détailleé
 | LED |    Poème      |   QR   |
 | ----| ------------- | --------|
